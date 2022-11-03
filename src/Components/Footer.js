@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <p className="our-color">
-        © 2023 by Anton & Lily. Proudly created by Rishi.
+        © 2023 by Anton & Lily. Proudly created by Abhijeet.
       </p>
     </footer>
   );
